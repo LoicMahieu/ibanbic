@@ -1,0 +1,20 @@
+{
+  "name": "ibanbic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "client-request": "^1.0.0",
+    "form-urlencoded": "0.0.7",
+    "xmldoc": "^0.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.7.0",
+    "mocha": "^2.2.5"
+  }
+}
