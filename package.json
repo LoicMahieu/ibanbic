@@ -1,12 +1,28 @@
 {
   "name": "ibanbic",
   "version": "1.0.0",
-  "description": "",
+  "description": "Wrapper for ibanbic.be API.",
   "main": "index.js",
   "scripts": {
     "test": "standard && mocha"
   },
-  "author": "",
+  "author": {
+    "name": "Loïc Mahieu",
+    "email": "mahieuloic@gmail.com"
+  },
+  "keywords": [
+    "iban",
+    "bic",
+    "ibanbic",
+    "bban"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LoicMahieu/ibanbic.git"
+  },
+  "bugs": "https://github.com/LoicMahieu/ibanbic/issues",
+  "contributors": [],
+  "homepage": "https://github.com/LoicMahieu/ibanbic",
   "license": "ISC",
   "dependencies": {
     "client-request": "^1.0.0",
