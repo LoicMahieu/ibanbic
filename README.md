@@ -1,6 +1,8 @@
 
 # ibanbic
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LoicMahieu/ibanbic.svg)](https://greenkeeper.io/)
+
 Wrapper for [ibanbic.be](http://www.ibanbic.be/) API.
 
 ## Install
