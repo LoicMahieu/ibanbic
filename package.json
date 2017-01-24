@@ -26,11 +26,11 @@
   "license": "ISC",
   "dependencies": {
     "client-request": "^1.0.0",
-    "form-urlencoded": "0.0.7",
-    "xmldoc": "^0.3.1"
+    "form-urlencoded": "1.5.0",
+    "xmldoc": "^1.0.0"
   },
   "devDependencies": {
     "jshint": "^2.7.0",
-    "mocha": "^2.2.5"
+    "mocha": "^3.2.0"
   }
 }
